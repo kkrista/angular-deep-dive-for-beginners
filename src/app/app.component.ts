@@ -10,6 +10,6 @@ export class AppComponent {
 
   coreCourse = COURSES[0];
   rxjsCourse = COURSES[1];
-  rxjsCourse = COURSES[2];
+  ngrxCourse = COURSES[2];
 
 }
