@@ -1,8 +1,7 @@
-const NodePolyfillPlugin = require("node-polyfill-webpack-plugin")
 
-module.exports = {
-    // Other rules...
-    plugins: [
-        new NodePolyfillPlugin()
-    ]
-}
+
+// export const resolve = {
+//   fallback: { "stream": require.resolve("stream-browserify") }
+// };
+
+resolve.fallback; { "path"; false };
