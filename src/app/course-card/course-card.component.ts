@@ -1,6 +1,6 @@
 import { Component, Input, OnInit, Output } from '@angular/core';
 import { Course } from '../model/course';
-import { EventEmitter } from 'stream';
+import { EventEmitter } from '@angular/core';
 
 @Component({
   selector: 'course-card',
